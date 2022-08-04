@@ -1,0 +1,45 @@
+body {
+    margin: 0px;
+}
+
+header {
+    background: rgb(157, 229, 157);
+    height: 150px;
+    width: 100vw;
+    /* display: flex; */
+    margin: auto;
+    padding: 30px;
+}
+
+header img {
+    float: left;
+    border-radius: 50%;
+    max-height: 80%;
+    margin-top: 15px;
+
+}
+
+nav {
+    margin-top: 70px;
+    margin-left: 100px;
+    display: flex;
+}
+
+nav a {
+    margin: auto;
+}
+
+#top-section {
+    margin: auto;
+    display: block;
+}
+
+#top-section p {
+    max-width: 500px;
+}
+
+.bottom-section {
+    margin: auto;
+    display: inline-block;
+}
+
