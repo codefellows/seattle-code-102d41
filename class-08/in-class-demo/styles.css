@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+header {
+    background-color: rgba(249, 189, 77, 0.94);
+    height: 100px;
+    display: flex;
+}
+
+h1 {
+    background-color: bisque;
+    max-width: max-content;
+    margin: 10px;
+}
+
+main {
+    background-color: bisque;
+    height: 400px;
+}
+
+footer {
+    background-color: rgba(249, 189, 77, 0.94);
+}
+
+h3 {
+    padding: 0px;
+    margin: 0px;
+}
